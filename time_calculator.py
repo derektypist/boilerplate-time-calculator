@@ -55,7 +55,3 @@ def add_time(start, duration, day_of_week = False):
     return my_return_time + " (" + str(amount_of_days) + " days later)"
 
   return my_return_time
-
-
-
-    return new_time
